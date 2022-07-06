@@ -31,7 +31,7 @@
 
 # **Front End React**
 
-- How is the reconciliation works? (snapshot & diff).
+- How is the reconciliation works? (snapshot & diff). [answer](https://reactjs.org/docs/reconciliation.html)
 - setState of class component # useState of function component.
 - What is controlled & uncontrolled component ?
 - lifecycle of useHooks?
@@ -124,14 +124,12 @@ Q: async, await ?
 Q: virtual dom in react work? → ok
 Q: What is controlled & uncontrolled component
 Q: lifecycle of useHooks
-Q: What is memo? Memo có mấy params
-Q: What is useCallback?
 Q: unit?
 Q: MUI -material ui?
 Q: css in js ? why should apply css in js
 Q: how do variables in .env of CRA work?
 Q: why should use key in react. Why should not use key by index of array for key? what if data doesn't have unique ?
-Q: what is the difference between setState of class and function component? first is merge object, second is replace object. Why the second is replace state?
+
 Q: How many ways to make component re-render?
 Q: what is prop-drilling?
 Q: what is react context? when and what is its disadvantage?
